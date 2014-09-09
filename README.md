@@ -1,6 +1,16 @@
-hello-world
-===========
+HelloScala
+==========
 
-First Repository
+Hello World Spring Boot Scala Web App
 
-this is my first repo for class 273.
+
+How to run
+==========
+
+```sh
+gradle build
+gradle bootRun
+```
+
+
+
